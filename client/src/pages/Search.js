@@ -3,7 +3,7 @@ import DeleteBtn from "../components/DeleteBtn";
 import Jumbotron from "../components/Jumbotron";
 import Form from "../components/Form";
 import SearchResult from "../components/SearchResult";
-import API from "../utils/API";
+import API from "../utility/API";
 import { Link } from "react-router-dom";
 import { Col, Row, Container } from "../components/Grid";
 import { List, ListItem } from "../components/List";
